@@ -77,11 +77,11 @@
 
 ## 📧 Get in Touch  
 - 📧 **Email:** [himanshukasera2238@gmail.com](mailto:himanshukasera2238@gmail.com)  
-- 🌐 **Portfolio:** [Visit My Website](https://my-portfolio-two-neon-20.vercel.app/)  
-- 👥 **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/himkasera/)  
-- 🤖 **GitHub:** [Explore My Projects](https://github.com/HimKasera)  
+- 🌐 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://my-portfolio-two-neon-20.vercel.app/)  
+- 👥 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/himkasera/)  
+- 🐦 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/him_kasera)  
+- 📸 [![Instagram](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/him_kasera/)  
 
-Let's collaborate and build something impactful! 🚀  
 
 ---
 
