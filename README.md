@@ -25,9 +25,25 @@
 ---
 
 ## 🛠️ Technical Skills  
-- **Languages:** Python, C/C++, JavaScript, HTML, CSS  
-- **Frameworks/Libraries:** React.js, Streamlit, Pandas, NumPy, Scikit-learn  
-- **Tools:** GitHub, AWS, Jupyter Notebook, VS Code  
+- **Languages:**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- **Frameworks/Libraries:**  
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- **Tools:**  
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 - **Domains:** Web Development, Machine Learning, Data Analytics  
 - **Specialized Skills:**  
   - Prompt Engineering  
@@ -69,9 +85,13 @@ Let's collaborate and build something impactful! 🚀
 
 ---
 
-## 📊 GitHub Stats  
-![HimKasera's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimKasera&show_icons=true&theme=radical)  
+## 📊 Himanshu Kasera's GitHub Stats  
+![HimKasera's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimKasera&show_icons=true&theme=b-plus)  
+**Total Stars Earned:** 39  
+**Total Commits (2025):** 43 
+**Total PRs:** 2  
+**Total Issues:** 9  
+**Contributed to (last year):** 5  
 
 ## 🌎 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimKasera&layout=compact&theme=radical)  
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimKasera&layout=compact&theme=b-plus)
