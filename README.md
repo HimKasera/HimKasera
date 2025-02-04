@@ -43,12 +43,15 @@
   ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-- **Domains:** Web Development, Machine Learning, Data Analytics  
-- **Specialized Skills:**  
-  - Prompt Engineering  
-  - Blockchain Technology  
+  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+- **Domains:**  
+  ![Web Development](https://img.shields.io/badge/Web%20Development-61DAFB?style=for-the-badge&logo=Webflow&logoColor=white)  
+  ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+  ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-E97627?style=for-the-badge&logo=Tableau&logoColor=white)  
 
+- **Specialized Skills:**  
+  ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF4B4B?style=for-the-badge&logo=OpenAI&logoColor=white)  
+  ![Blockchain Technology](https://img.shields.io/badge/Blockchain%20Technology-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ---
 
 ## 🚀 Selected Projects  
