@@ -86,8 +86,7 @@ Let's collaborate and build something impactful! 🚀
 ---
 
 ## 📊 Himanshu Kasera's GitHub Stats  
-![HimKasera's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimKasera&show_icons=true&theme=b-plus)  
- 
+![HimKasera's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimKasera&show_icons=true&theme=dark)  
 
 ## 🌎 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimKasera&layout=compact&theme=b-plus)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimKasera&layout=compact&theme=dark)
