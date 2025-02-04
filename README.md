@@ -87,11 +87,7 @@ Let's collaborate and build something impactful! 🚀
 
 ## 📊 Himanshu Kasera's GitHub Stats  
 ![HimKasera's GitHub stats](https://github-readme-stats.vercel.app/api?username=HimKasera&show_icons=true&theme=b-plus)  
-**Total Stars Earned:** 39  
-**Total Commits (2025):** 43 
-**Total PRs:** 2  
-**Total Issues:** 9  
-**Contributed to (last year):** 5  
+ 
 
 ## 🌎 Top Languages  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimKasera&layout=compact&theme=b-plus)
